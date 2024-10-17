@@ -1,15 +1,21 @@
 <!-- Sobre mí -->
-## Sobre mí 👨‍💻
+# Sobre mí 👨‍💻
 
 ¡Hola! Soy un desarrollador web en formación con una gran pasión por la tecnología y la creación de aplicaciones web. Actualmente, estoy cursando un **Grado Superior en Desarrollo de Aplicaciones Web**, y ya he completado un **Grado Medio en Sistemas Microinformáticos y Redes**. Aunque aún no he tenido la oportunidad de trabajar profesionalmente en el sector, tengo experiencia en varias tecnologías clave y estoy siempre buscando nuevas oportunidades para aprender y mejorar.
 
-🚀 **Mi objetivo:**
-Estoy muy motivado para seguir formándome y prepararme para mi primera experiencia laboral en el mundo del desarrollo web. Tengo una gran capacidad de adaptación y un fuerte deseo de enfrentar nuevos desafíos.
+<br>
 
-🤝 **Colaboremos:**
-Si estás buscando un desarrollador web entusiasta, con ganas de aprender y aportar, ¡estaré encantado de escuchar sobre cualquier oportunidad!
+# 🚀 **Mi objetivo:**
+ Estoy muy motivado para seguir formándome y prepararme para mi primera experiencia laboral en el mundo del desarrollo web. Tengo una gran capacidad de adaptación y un fuerte deseo de enfrentar nuevos desafíos.
 
-### Tecnologías Conocidas
+<br>
+
+# 🤝 **Colaboremos:**
+ Si estás buscando un desarrollador web entusiasta, con ganas de aprender y aportar, ¡estaré encantado de escuchar sobre cualquier oportunidad!
+
+<br>
+
+## 🛠 Tecnologías Conocidas
 
 Lista de las tecnologías:
 * [![HTML][HTML]][HTML-url]
@@ -26,13 +32,11 @@ Lista de las tecnologías:
 
 
 <!-- CONTACTO -->
-## Contacto
+## 📫 Contacto
 
-Nombre: Juanma
-
-Email: juanmavb@hotmail.com
-
-Portfolio Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+- **Nombre:** Juanma  
+- **Email:** [juanmavb@hotmail.com](mailto:juanmavb@hotmail.com)  
+- **GitHub:** [https://github.com/daith43](https://github.com/daith43)
 
 
 <!--Referencias a los iconos de las tecnologías-->
