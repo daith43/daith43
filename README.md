@@ -1,23 +1,20 @@
 <!-- Sobre mí -->
-# Sobre mí 👨‍💻
+# 💻 ¡Hola!, mi nombre es Juanma Vizcaíno 👋
 
-¡Hola! Soy un desarrollador web en formación con una gran pasión por la tecnología y la creación de aplicaciones web. Actualmente, estoy cursando un **Grado Superior en Desarrollo de Aplicaciones Web**, y ya he completado un **Grado Medio en Sistemas Microinformáticos y Redes**. Aunque aún no he tenido la oportunidad de trabajar profesionalmente en el sector, tengo experiencia en varias tecnologías clave y estoy siempre buscando nuevas oportunidades para aprender y mejorar.
+Soy un desarrollador web en formación con una gran pasión por la tecnología y la creación de aplicaciones web. Actualmente, estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Web**, y ya he completado previamente el **Grado Medio en Sistemas Microinformáticos y Redes**. 
 
-<br>
+Me gusta aprender todos los días y siempre busco nuevas formas de formarme. Aprender cosas nuevas me ayuda a mejorar y a enfrentar los retos que se presentan.
 
-# 🚀 **Mi objetivo:**
- Estoy muy motivado para seguir formándome y prepararme para mi primera experiencia laboral en el mundo del desarrollo web. Tengo una gran capacidad de adaptación y un fuerte deseo de enfrentar nuevos desafíos.
+</br>
 
-<br>
+### 🌱 **Mi objetivo:**
+Busco avanzar en mis conocimientos de desarrollo y contribuir en proyectos innovadores. Me encanta enfrentar nuevos retos y aprender de cada experiencia.
 
-# 🤝 **Colaboremos:**
- Si estás buscando un desarrollador web entusiasta, con ganas de aprender y aportar, ¡estaré encantado de escuchar sobre cualquier oportunidad!
+</br>
 
-<br>
+### 🚀 Tecnologías Conocidas 
+<hr>
 
-## 🛠 Tecnologías Conocidas
-
-Lista de las tecnologías:
 * [![HTML][HTML]][HTML-url]
 * [![CSS][CSS]][CSS-url]
 * [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
@@ -29,14 +26,20 @@ Lista de las tecnologías:
 * [![MySQL][MySQL]][MySQL-url]
 * [![Java][Java]][Java-url]
 
+<hr>
 
+
+</br>
+
+### 🤝 **¿Te gustaría colaborar?**
+Estoy abierto a colaborar en proyectos interesantes y siempre dispuesto a aprender. Si tienes algún proyecto en mente o alguna sugerencia, ¡no dudes en contactarme!
+
+</br>
 
 <!-- CONTACTO -->
 ## 📫 Contacto
 
-- **Nombre:** Juanma  
-- **Email:** [juanmavb@hotmail.com](mailto:juanmavb@hotmail.com)  
-- **GitHub:** [https://github.com/daith43](https://github.com/daith43)
+[![Email](https://img.shields.io/badge/juanmavb@hotmail.com-email_personal-ffffff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](juanmavb@hotmail.com)
 
 
 <!--Referencias a los iconos de las tecnologías-->
