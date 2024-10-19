@@ -3,7 +3,7 @@
 
 Soy un desarrollador web en formación con una gran pasión por la tecnología y la creación de aplicaciones web. Actualmente, estoy cursando el **Grado Superior en Desarrollo de Aplicaciones Web**, y ya he completado previamente el **Grado Medio en Sistemas Microinformáticos y Redes**. 
 
-Me gusta aprender todos los días y siempre busco nuevas formas de formarme. Aprender cosas nuevas me ayuda a mejorar y a enfrentar los retos que se presentan.
+Me gusta aprender algo nuevo cada día y siempre busco nuevas maneras de formarme. Aprender cosas nuevas me ayuda a mejorar y a enfrentar los retos que se presentan.
 
 </br>
 
