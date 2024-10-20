@@ -39,7 +39,7 @@ Estoy abierto a colaborar en proyectos interesantes y siempre dispuesto a aprend
 <!-- CONTACTO -->
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/juanmavb@hotmail.com-email_personal-ffffff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](juanmavb@hotmail.com)
+[![Email](https://img.shields.io/badge/juanmavb@hotmail.com-email_personal-ffffff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](mailto:juanmavb@hotmail.com)
 
 
 <!--Referencias a los iconos de las tecnologías-->
